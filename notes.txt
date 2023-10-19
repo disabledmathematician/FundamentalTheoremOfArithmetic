@@ -1,0 +1,17 @@
+Selection Sort
+Insertion Sort
+Merge Sort
+
+Linear Search
+Bisection Search
+
+Depth-First Search
+Breadth-First Search
+Dijkstra
+Bellman-Ford
+Prim
+Kruskal
+Johnson
+Floyd-Warshall
+
+Charles Truscott, notes ...
