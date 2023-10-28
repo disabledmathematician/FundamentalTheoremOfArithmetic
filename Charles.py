@@ -1,5 +1,6 @@
 # Charles Thomas Wallace Truscott
 # Sorting and Searching for the Fundamental Theorem of Arithmetic, not yet in lowest prime multiples
+# n log n complexity
 def find_factors(n):
 	Factors = []
 	for x in range(1, n):
